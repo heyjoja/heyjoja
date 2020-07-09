@@ -1,4 +1,4 @@
-## Hi Github 👋
+## I'm Joja 👋
 ## How I work 🕶
 ## Coding experience 🧑🏽‍💻
 ## Get in touch 🔗
