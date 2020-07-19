@@ -1,7 +1,10 @@
 ## I'm Joja 👋
 ## How I work 🕶
+
+Developer of distributed javascript-based applications with experience in startups, leadership, personal development and team management, some scrum experience.
+
 ## Coding experience 🧑🏽‍💻
-  * Head of Software Development - Infrapedia (SiliconValley Company - Full-time Online)
+  * Head of Software Development - Infrapedia (SiliconValley Project - Full-time Online)
   * Head of Software Development - EdgeUno (Bogota Company - Part-time Online)
   * NodeJs Backend & Leader Engineer - Agrimanager (Medellín - Colombia, Full-time)
   * Full-stack Developer - VirtualBienes.com (Medellín - Colombia, Full-time)
