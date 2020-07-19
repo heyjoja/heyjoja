@@ -1,5 +1,5 @@
 ## I'm Joja 👋
-## How I work 🕶
+## what I do? 🕶
 
 Developer of distributed javascript-based applications with experience in startups, leadership, personal development and team management, some scrum experience.
 
