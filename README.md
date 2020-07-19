@@ -1,7 +1,10 @@
-## I'm Joja 👋
+## Hi, I'm Joja 👋
+
 ## what I do? 🕶
 
-Developer of distributed javascript-based applications with experience in startups, leadership, personal development and team management, some scrum experience.
+I'm Developer of distributed javascript-based applications with experience in startups, leadership, personal development and team management, some scrum experience.
+
+I've experience working with PHP Javascript NodeJs MongoDB Posgresql SQLite Python Jquery and CMS like Wordpress Prestashop.
 
 ## Coding experience 🧑🏽‍💻
   * Head of Software Development - Infrapedia (SiliconValley Project - Full-time Online)
