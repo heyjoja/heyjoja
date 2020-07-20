@@ -9,24 +9,24 @@ I'm Developer of distributed javascript-based applications with experience in st
 I've experience working with PHP Javascript NodeJs MongoDB Posgresql SQLite Python Jquery and CMS like Wordpress Prestashop.
 
 ```javascript
-const vanessamarely = {
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python],
-  frameworks: [NodeJs, Slim, Flask],
-  architecture: ["design system pattern"],
-  preprocessor: ["SASS"],
-  Learning: ["GO", "DART", "FLUTTER"],
+const medicenjoja = {
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP', 'Python'],
+  frameworks: ['NodeJs', 'Slim', 'Flask'],
+  architecture: ['design system pattern'],
+  preprocessor: ['SASS'],
+  Learning: ['GO', 'DART', 'FLUTTER'],
   codingExperience: [ 
-    { company: "Infrapedia", position: "Head of Software Development", Where: "SiliconValley Project", fullTimeProject: true },
-    { company: "EdgeUno", position: "Head of Software Development", Where: "Bogota", fullTimeProject: false },
-    { company: "Agrimanager", position: "NodeJs Backend & Leader Engineer", Where: "Medellín", fullTimeProject: true },
-    { company: "VirtualBienes.com", position: "Full-stack Developer", Where: "Medellín", fullTimeProject: true },
-    { company: "Pepper Company", position: "Full-stack Developer", Where: "Medellín", fullTimeProject: true },
-    { company: "RedLines App", position: "Full-stack Developer", Where: "SiliconValley StartUp", fullTimeProject: false },
-    { company: "Albus", position: "CoFounder", Where: "Maturín, Venezuela", fullTimeProject: true },
-    { company: "Pacific Logging", position: "Software Developer", Where: "Maturín, Venezuela", fullTimeProject: true },
+    { company: 'Infrapedia', position: 'Head of Software Development', Where: 'SiliconValley Project', fullTimeProject: true },
+    { company: 'EdgeUno', position: 'Head of Software Development', Where: 'Bogota', fullTimeProject: false },
+    { company: 'Agrimanager', position: 'NodeJs Backend & Leader Engineer', Where: 'Medellín', fullTimeProject: true },
+    { company: 'VirtualBienes.com', position: 'Full-stack Developer', Where: 'Medellín', fullTimeProject: true },
+    { company: 'Pepper Company', position: 'Full-stack Developer', Where: 'Medellín', fullTimeProject: true },
+    { company: 'RedLines App', position: 'Full-stack Developer', Where: 'SiliconValley StartUp', fullTimeProject: false },
+    { company: 'Albus', position: 'CoFounder', Where: 'Maturín, Venezuela', fullTimeProject: true },
+    { company: 'Pacific Logging', position: 'Software Developer', Where: 'Maturín, Venezuela', fullTimeProject: true },
   ],
-  blogs: [ devto: "https://dev.to/medicenjoja", medium: "https://medium.com/@medicenjoja"],
-  challenge: "I am doing my first OpenSource project"
+  blogs: [ devto: 'https://dev.to/medicenjoja', medium: 'https://medium.com/@medicenjoja'],
+  challenge: 'I am doing my first OpenSource project'
 }
 ```
 ## Get in touch 🔗
