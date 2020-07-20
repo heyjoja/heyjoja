@@ -6,7 +6,7 @@
 
 I'm Developer of distributed javascript-based applications with experience in startups, leadership, personal development and team management, some scrum experience.
 
-I've experience working with PHP Javascript NodeJs MongoDB Posgresql SQLite Python Jquery and CMS like Wordpress Prestashop.
+I've experience working with PHP, Javascript, NodeJs, MongoDB, Posgresql, SQLite, Python, Jquery and CMS like Wordpress and Prestashop.
 
 ```javascript
 const medicenjoja = {
