@@ -12,7 +12,7 @@ I've experience working with PHP, Javascript, NodeJs, MongoDB, Posgresql, SQLite
 const medicenjoja = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP', 'Python'],
   frameworks: ['NodeJs', 'Slim', 'Flask'],
-  architecture: ['design system pattern'],
+  architecture: ['SOLID'],
   preprocessor: ['SASS'],
   learning: ['GO', 'DART', 'FLUTTER'],
   codingExperience: [ 
@@ -34,19 +34,3 @@ const medicenjoja = {
 [LinkedIn](https://www.linkedin.com/in/medicenjoja/)
 
 <img src="https://avatars0.githubusercontent.com/u/43700359?s=200&v=4" width="60"> <em><b>[Infrapedia](https://github.com/infrapedia) </b></em> is the most complete and versatile interactive infrastructure map of the Internet
-
-
-<!--
-**medicenjoja/medicenjoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
