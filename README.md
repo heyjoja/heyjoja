@@ -34,3 +34,12 @@ const medicenjoja = {
 [LinkedIn](https://www.linkedin.com/in/medicenjoja/)
 
 <img src="https://avatars0.githubusercontent.com/u/43700359?s=200&v=4" width="60"> <em><b>[Infrapedia](https://github.com/infrapedia) </b></em> is the most complete and versatile interactive infrastructure map of the Internet
+
+
+## experience 🔗
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="60"> 
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="60"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60"> 
+
