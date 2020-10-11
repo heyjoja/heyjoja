@@ -14,7 +14,7 @@ const medicenjoja = {
   frameworks: ['NodeJs', 'Slim', 'Flask'],
   architecture: ['SOLID'],
   preprocessor: ['SASS'],
-  learning: ['GO', 'DART', 'FLUTTER'],
+  learning: ['Python', 'GO', 'DART', 'FLUTTER'],
   codingExperience: [ 
     { company: 'EdgeUno', position: 'Software Engineer I', Where: 'Bogota', fullTimeProject: true },
     { company: 'Infrapedia', position: 'Head of Software Development', Where: 'SiliconValley Project', fullTimeProject: true },
