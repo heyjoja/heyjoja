@@ -11,7 +11,7 @@ I've experience working with PHP, Javascript, NodeJs, MongoDB, Posgresql, SQLite
 ```javascript
 const medicenjoja = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP', 'Python'],
-  frameworks: ['NodeJs - Express', 'Flask'],
+  frameworks: ['Express', 'Flask'],
   architecture: ['SOLID'],
   preprocessor: ['SASS'],
   learning: ['Python', 'GO', 'DART', 'FLUTTER'],
