@@ -27,7 +27,7 @@ const medicenjoja = {
     { company: 'Pacific Logging', position: 'Software Developer', Where: 'Maturín, Venezuela', fullTimeProject: true },
   ],
   blogs: [ devto: 'https://dev.to/medicenjoja', medium: 'https://medium.com/@medicenjoja'],
-  challenge: 'I'm doing my first OpenSource project'
+  challenge: 'I am doing my first OpenSource project'
 }
 ```
 ## Get in touch 🔗
