@@ -11,7 +11,7 @@ I've experience working with PHP, Javascript, NodeJs, MongoDB, Posgresql, SQLite
 ```javascript
 const medicenjoja = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP', 'Python'],
-  frameworks: ['NodeJs', 'Slim', 'Flask'],
+  frameworks: ['NodeJs - Express', 'Flask'],
   architecture: ['SOLID'],
   preprocessor: ['SASS'],
   learning: ['Python', 'GO', 'DART', 'FLUTTER'],
@@ -27,7 +27,7 @@ const medicenjoja = {
     { company: 'Pacific Logging', position: 'Software Developer', Where: 'Maturín, Venezuela', fullTimeProject: true },
   ],
   blogs: [ devto: 'https://dev.to/medicenjoja', medium: 'https://medium.com/@medicenjoja'],
-  challenge: 'I am doing my first OpenSource project'
+  challenge: 'I'm doing my first OpenSource project'
 }
 ```
 ## Get in touch 🔗
