@@ -14,9 +14,9 @@ const medicenjoja = {
   frameworks: ['Express', 'Flask'],
   architecture: ['SOLID'],
   preprocessor: ['SASS'],
-  learning: ['Python', 'GO', 'DART', 'FLUTTER'],
+  learning: ['Python', 'GO'],
   codingExperience: [ 
-    { company: 'EdgeUno', position: 'Software Engineer I', Where: 'Bogota', fullTimeProject: true },
+    { company: 'EdgeUno', position: 'Software Engineer III', Where: 'Bogota', fullTimeProject: true },
     { company: 'Infrapedia', position: 'Head of Software Development', Where: 'SiliconValley Project', fullTimeProject: true },
     { company: 'EdgeUno', position: 'Head of Software Development', Where: 'Bogota', fullTimeProject: false },
     { company: 'Agrimanager', position: 'NodeJs Backend & Leader Engineer', Where: 'Medellín', fullTimeProject: true },
