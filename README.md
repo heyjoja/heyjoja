@@ -30,6 +30,18 @@ const medicenjoja = {
   challenge: 'I am doing my first OpenSource project'
 }
 ```
+
+
+# My Skillset
+
+## I’m an expert in:
+
+## I’m proficient in
+
+
+
+
+
 ## Get in touch 🔗
 
 [LinkedIn](https://www.linkedin.com/in/medicenjoja/)
