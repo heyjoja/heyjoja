@@ -9,7 +9,7 @@ I'm Developer of distributed javascript-based applications with experience in st
 I've experience working with PHP, Javascript, NodeJs, MongoDB, Posgresql, SQLite, Python, Jquery and CMS like Wordpress and Prestashop.
 
 ```javascript
-const medicenjoja = {
+const heyjoja = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP', 'Python'],
   frameworks: ['Express', 'Flask'],
   architecture: ['SOLID'],
