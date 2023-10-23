@@ -1,6 +1,6 @@
 ## Hi, I'm Joja 👋
 [![Twitter: medicenjoja](https://img.shields.io/twitter/follow/medicenjoja?style=social)](https://twitter.com/medicenjoja)
-[![GitHub medicenjoja](https://img.shields.io/github/followers/medicenjoja?label=follow&style=social)](https://github.com/medicenjoja)
+[![GitHub medicenjoja](https://img.shields.io/github/followers/heyjoja?label=follow&style=social)](https://github.com/heyjoja)
 
 ## what I do? 🕶
 
